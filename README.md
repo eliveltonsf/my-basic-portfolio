@@ -19,43 +19,43 @@
 ## 
 <p> In it I create two screens, one Home, where it contains my identification and biography, and the other, portfolio, where it contains my projects already published on Github. </p>
 
-### :house: Home
+### Home :house:
  <h1 align="center">
   <img src="/src/assets/home.png"/>
  </h1>
 
-### :file_folder: Portfolio
+### Portfolio :file_folder:
  <h1 align="center">
   <img src="/src/assets/potfolio.png"/>
  </h1>
 
 <br/>
 
-## :calling: Interface responsive
+## Interface responsive :calling: 
  <h1 align="center">
   <img src="/src/assets/home-responsive.png"  width="350px"/>
   <img src="/src/assets/porffolio-responsive.png"  width="350"/>
  </h1>
 
-### :globe_with_meridians: Experience the final result of the [my basic portfolio.](https://eliveltonsf.github.io/my-basic-portfolio/index.html)
+### Experience the final result of the [my basic portfolio.](https://eliveltonsf.github.io/my-basic-portfolio/index.html) :globe_with_meridians:
 <br/>
 
-## :rocket: Technologies
+## Technologies :rocket:
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
 
 <br />
 
-## :keyboard: Practiced Skills
+## Practiced Skills :keyboard:
 
-   :heavy_check_mark: CSS - Flexbox and Grid 
-###### 
-   :heavy_check_mark: Responsive Layout
+   -  CSS - Flexbox and Grid :heavy_check_mark:
+   -  Responsive Layout :heavy_check_mark:
 <br />
 
 <hr>
 
-Made with 🧡 by Elivelton Ferreira. :calling: [Get in touch!](https://www.linkedin.com/in/eliveltonsf/)
+Made with 🧡
+By Elivelton Ferreira. [Get in touch!](https://www.linkedin.com/in/eliveltonsf/) :calling:
 
 
