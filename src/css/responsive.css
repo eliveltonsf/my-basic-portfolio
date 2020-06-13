@@ -1,0 +1,15 @@
+@media (max-width: 800px){
+
+    .cards {
+        max-width: 250px;
+        grid-template-columns: 1fr;
+    }
+
+}
+
+@media (max-width: 360px) {
+    
+    #wrapper img {
+        height: 250px;
+    }
+}
