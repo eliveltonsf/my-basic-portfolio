@@ -24,14 +24,14 @@
   <img src="/src/assets/home.png"/>
  </h1>
 
-### 	:file_folder: Portfolio
+### :file_folder: Portfolio
  <h1 align="center">
   <img src="/src/assets/potfolio.png"/>
  </h1>
 
 <br/>
 
-##  :calling: Interface responsive
+## :calling: Interface responsive
  <h1 align="center">
   <img src="/src/assets/home-responsive.png"  width="350px"/>
   <img src="/src/assets/porffolio-responsive.png"  width="350"/>
@@ -50,7 +50,7 @@
 
    :heavy_check_mark: CSS - Flexbox and Grid 
 ###### 
-   :heavy_check_mark: Layout Responsive
+   :heavy_check_mark: Responsive Layout
 <br />
 
 <hr>
